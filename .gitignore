@@ -1,0 +1,15 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Output files
+*.liftlogbackup.gz
+*.liftlogbackup
+
+# Sample files (kept for reference but not in git)
+sample_strong.csv
+sample_liftlog.liftlogbackup.gz
